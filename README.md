@@ -4,4 +4,4 @@ The code is the first step to build base for conversation between chatbot and us
 
 The code mainly used for ollama LLM that user can easily adopt alternative LLM fit their user case
 
-Replace user.png and bot.png for your own images
+Replace user_image.png and bot_image.png for your own images
